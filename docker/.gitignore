@@ -1,0 +1,3 @@
+# Used for copy the self-signed certificate from caddy and add it to the trusted certificates
+# see https://github.com/dunglas/symfony-docker/blob/master/docs/troubleshooting.md#fix-chromebrave-ssl
+cert/*
